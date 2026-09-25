@@ -1,8 +1,5 @@
 # Cas9 activity prediction — solution
 
-Answers `Assignment.md` in the parent directory. Start with `REPORT.md` (the
-≤3-page writeup: proposal verdict, limitations, protocol, results, recommendation;
-also `figures/REPORT.pdf`) and `TIME_LOG.md` (time/compute/tools record).
 
 ## Layout
 
