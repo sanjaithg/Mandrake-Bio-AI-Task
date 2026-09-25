@@ -1,0 +1,30 @@
+{
+  "random": {
+    "bigger_embedding_only": {
+      "best_model": "ridge(alpha=1000)",
+      "val_rho": 0.21850756790255751,
+      "test_rho": 0.17702859718565442,
+      "test_rmse": 0.6189571022987366
+    },
+    "tuned_full": {
+      "best_model": "gbr(depth=3,n_est=100)",
+      "val_rho": 0.22880447115414873,
+      "test_rho": 0.1891629449056335,
+      "test_rmse": 0.6102939616796098
+    }
+  },
+  "position": {
+    "bigger_embedding_only": {
+      "best_model": "kernel_ridge(alpha=1,gamma=0.001,subsampled_to=1500)",
+      "val_rho": 0.15327640289355254,
+      "test_rho": 0.10510761175860796,
+      "test_rmse": 0.6104994416236877
+    },
+    "tuned_full": {
+      "best_model": "kernel_ridge(alpha=1,gamma=0.001,subsampled_to=1500)",
+      "val_rho": 0.15500889879451876,
+      "test_rho": 0.10422373756873769,
+      "test_rmse": 0.6105548739433289
+    }
+  }
+}

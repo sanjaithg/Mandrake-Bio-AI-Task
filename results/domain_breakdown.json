@@ -1,0 +1,47 @@
+{
+  "RuvC": {
+    "n_test_mutants": 293,
+    "n_test_positions": 49,
+    "n_domain_positions_total": 307,
+    "pred_ridge_embedding": -0.07146984663462468,
+    "pred_ridge_embedding_struct": -0.07828672165631656,
+    "pred_esm_zero_shot": 0.09267543738811992,
+    "pred_blosum62": 0.09302548517918836
+  },
+  "Bridge/Other": {
+    "n_test_mutants": 43,
+    "n_test_positions": 7,
+    "n_domain_positions_total": 34,
+    "pred_ridge_embedding": -0.03669586227725763,
+    "pred_ridge_embedding_struct": -0.03820598006644518,
+    "pred_esm_zero_shot": -0.041679250981576564,
+    "pred_blosum62": -0.06883826163731467
+  },
+  "REC": {
+    "n_test_mutants": 530,
+    "n_test_positions": 87,
+    "n_domain_positions_total": 625,
+    "pred_ridge_embedding": 0.14097396886051794,
+    "pred_ridge_embedding_struct": 0.1339662795860064,
+    "pred_esm_zero_shot": -0.0347638697275884,
+    "pred_blosum62": 0.04662149157628048
+  },
+  "HNH": {
+    "n_test_mutants": 137,
+    "n_test_positions": 23,
+    "n_domain_positions_total": 133,
+    "pred_ridge_embedding": 0.22414452928108722,
+    "pred_ridge_embedding_struct": 0.2082205462318218,
+    "pred_esm_zero_shot": 0.21625721059607592,
+    "pred_blosum62": 0.11853793638881824
+  },
+  "PI": {
+    "n_test_mutants": 243,
+    "n_test_positions": 40,
+    "n_domain_positions_total": 269,
+    "pred_ridge_embedding": 0.025959216682309806,
+    "pred_ridge_embedding_struct": 0.026757897479075466,
+    "pred_esm_zero_shot": 0.03900322127618823,
+    "pred_blosum62": 0.03434468991084226
+  }
+}

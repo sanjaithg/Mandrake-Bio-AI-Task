@@ -1,0 +1,28 @@
+{
+  "random": {
+    "mean_baseline_spearman": null,
+    "mean_baseline_rmse": 0.606755256652832,
+    "blosum62": 0.0641736179069891,
+    "esm_zero_shot": 0.05626031931230708,
+    "ridge_embedding": 0.15119366656647815,
+    "ridge_embedding_rmse": 0.6115331053733826,
+    "ridge_embedding_alpha": 300,
+    "ridge_embedding_struct": 0.15497424722308104,
+    "ridge_embedding_struct_alpha": 300,
+    "ridge_struct_only": 0.14423478355308636,
+    "ridge_position_identity_only": 0.14046790841687548
+  },
+  "position": {
+    "mean_baseline_spearman": null,
+    "mean_baseline_rmse": 0.6093901991844177,
+    "blosum62": 0.056854768533099787,
+    "esm_zero_shot": 0.05561258016931611,
+    "ridge_embedding": 0.1520393939295344,
+    "ridge_embedding_rmse": 0.6346162557601929,
+    "ridge_embedding_alpha": 300,
+    "ridge_embedding_struct": 0.14460505996215395,
+    "ridge_embedding_struct_alpha": 300,
+    "ridge_struct_only": 0.04306224435082415,
+    "ridge_position_identity_only": 0.0027586777316044057
+  }
+}
